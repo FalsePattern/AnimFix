@@ -1,3 +1,11 @@
+## 2022/09/23 UPDATE:
+All of this mod's functionality has been merged into [FalseTweaks](https://github.com/FalsePattern/FalseTweaks).
+
+This repository will not receive any updates from this point on.
+
+## Old readme
+
+### AnimFix
 A small mod to remove the stuttering caused by the large amount of animated textures in heavily modded instances.
 
 This is achieved by replacing the vanilla one-by-one texture uploading system with a batch-based system.
